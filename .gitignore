@@ -1,0 +1,7 @@
+node_modules/
+/salida/*.txt
+/.idea
+/.env
+
+uploads/productos/**.*
+uploads/usuarios/**.*
